@@ -5,7 +5,7 @@
 import pandas as pd
 
 # Step 1.
-df = pd.read_csv('california_housing_train.csv')
+df = pd.read_csv('../california_housing_train.csv')
 
 print(df.head())
 

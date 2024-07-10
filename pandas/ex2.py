@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('california_housing_train.csv')
+df = pd.read_csv('../california_housing_train.csv')
 
 # Проверка на пустые значения
 print(df.isnull().sum())
