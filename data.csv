@@ -1,0 +1,6 @@
+name,age,city,math_grade,physics_grade,average_grade,isPassed
+Анна,21,Москва,85,90,87.5,False
+Борис,22,Санкт-Петербург,92,89,90.5,True
+Вика,23,Казань,88,85,86.5,False
+Денис,24,Москва,78,88,83.0,False
+Елена,15,Сочи,95,92,93.5,True
